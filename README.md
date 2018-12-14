@@ -1,1 +1,2 @@
-I need to learn git
+CSE504 Assignments
+Skeleton.cpp has the codes
